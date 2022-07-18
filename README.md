@@ -17,33 +17,14 @@ Here are some ideas to get you started:
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jyf-111&repo=cpp)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 Awesome githuber
-- https://github.com/Youngermaster/Youngermaster
-- https://github.com/hylerrix/hylerrix
-- https://github.com/Xunzhuo/Xunzhuo
-- https://github.com/elianiva/elianiva
-- https://github.com/glepnir/glepnir
-- https://github.com/kkiyama117/kkiyama117
-- https://github.com/changkun/changkun
-- https://github.com/yangwenmai/yangwenmai
-- https://github.com/NTBBloodbath/NTBBloodbath
-- https://github.com/dhruvasagar/dhruvasagar
-- https://github.com/Light-City//Light-City
-- https://github.com/rhysd/rhysd
-- https://github.com/abzcoding/abzcoding
-- https://github.com/SigureMo/SigureMo
-- https://github.com/vbalien/vbalien [github action]
-- https://github.com/funkyremi/funkyremi
-- https://github.com/watzon/watzon
-- https://github.com/michaelb/michaelb
-- https://github.com/lambdalisue/lambdalisue
-- https://github.com/spywhere/spywhere
+
 -->
 
 <h1 align="center">
-  Hey, I'm Younger!
+  Hey, I'm jyf!
 </h1>
 
 <!-- 
