@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h1 align="center">
+  Hey, I'm jyf!
+</h1>
+
+<p align="center">
+    •
+    <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+    •
+	<b><a href="https://github.com/Microsoft/vscode">vscode</a></b>
+</p>
+
+
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jyf-111&repo=cpp&bg_color=000000&text_color=718096)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false)
@@ -23,9 +36,6 @@ Awesome githuber
 
 -->
 
-<h1 align="center">
-  Hey, I'm jyf!
-</h1>
 
 <!-- 
 <p align="center">
@@ -41,11 +51,6 @@ Awesome githuber
 </div>
 -->
 
-<p align="center">
-    •
-    <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
-
-</p>
 
 <p align="center">
 <!--     <a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/> </a> -->
