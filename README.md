@@ -70,9 +70,9 @@ Awesome githuber
 
 
 <div align="center">
-  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320"> 
+  <!-- <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> -->
+  <img align=left src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320">
+  <img align=right src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320"> 
 </div>
 
 
@@ -85,11 +85,11 @@ Awesome githuber
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
 ## 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=6"/>
 
 
 ## 😐 But I'm still wondering...
