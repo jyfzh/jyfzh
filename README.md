@@ -45,9 +45,6 @@ Awesome githuber
     •
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
 
-    •
-  <b><a href="1920950476@qq.com">Email</a></b>
-    <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
 
 <p align="center">
@@ -74,17 +71,17 @@ Awesome githuber
 
 <div align="center">
   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
-<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
-<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320"> 
 </div>
 
 
 
-## 🌠[Coding Time](https://wakatime.com/@Younger)
+<!-- ## 🌠[Coding Time](https://wakatime.com/@Younger) -->
 > the projects I'm working on
 
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true" />
@@ -94,13 +91,6 @@ Awesome githuber
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=4"/>
 
-
-<!-- 
-[![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
 
 ## 😐 But I'm still wondering...
 
