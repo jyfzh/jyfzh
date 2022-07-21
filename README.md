@@ -47,14 +47,15 @@ Here are some ideas to get you started:
 </p>
 
 <div align="left">  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jyf-111&repo=cpp&bg_color=000000&text_color=718096)
+<!-- ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jyf-111&repo=cpp&bg_color=000000&text_color=718096) -->
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6 -->
 </div>
 ## Awesome githuber
@@ -99,21 +100,5 @@ Here are some ideas to get you started:
 
 
 ## 😐 But I'm still wondering...
-
-```rust
-struct AboutMe;
-
-impl AboutMe {
-    const READING_BOOK: &'static str = "The book of life";
-    const CURRENT_DEGREE: &'static str = "Master";
-    const WANT_TO_UNDERSTAND: &'static str = "WHY we should HOW to do WHAT";
-}
-
-trait OpenSource {
-    const CONTRIBUTOR_OF: &'static [&'static str] = &["Nope"];
-}
-
-impl OpenSource for AboutMe {}
-```
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
