@@ -62,7 +62,7 @@ Awesome githuber
 <p align="center">
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
     <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
-    <a href=""> <img src="https://img.shields.io/badge/win10-%23008080.svg?&style=for-the-badge&logo=windows&logoColor=white"/> </a>
+    <a href=""> <img src="https://img.shields.io/badge/win11-win11-blue"/> </a>
     <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
 </p>
 
