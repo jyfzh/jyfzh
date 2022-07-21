@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jyf-111&repo=cpp)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false)
+![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false)
 
 Awesome githuber
 
