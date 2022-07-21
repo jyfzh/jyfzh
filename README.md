@@ -20,14 +20,14 @@ Here are some ideas to get you started:
   Hey, I'm jyf!
 </h1>
 
-<p align="center">
+<p align="left">
     •
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
     •
 	<b><a href="https://github.com/Microsoft/vscode">vscode</a></b>
 </p>
 
-<p align="center">
+<p align="left">
 <!--     <a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/> </a> -->
 <!--     <a href="https://golang.org/"> <img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </a> -->
 <!--     <a href="https://elixir-lang.org/"> <img src="https://img.shields.io/badge/elixir-9a3ea8?style=for-the-badge&logo=elixir&logoColor=white"/> </a> -->
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!--     <a href="https://www.ruby-lang.org/"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /> </a> -->
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
     <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
     <a href=""> <img src="https://img.shields.io/badge/win11-win11-blue"/> </a>
