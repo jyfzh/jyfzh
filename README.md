@@ -84,9 +84,9 @@ Awesome githuber
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
 
 <!-- <div> -->
-<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true" /> -->
-<!--     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" /> -->
-<!-- </div> -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true" /> 
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+<!-- </div>  -->
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=6"/>
