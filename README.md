@@ -80,16 +80,17 @@ Awesome githuber
 <!-- ## 🌠[Coding Time](https://wakatime.com/@Younger) -->
 > the projects I'm working on
 
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
 
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true" /> 
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
-</div> 
+<!-- <div> -->
+<!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true" />  -->
+<!--     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" /> -->
+<!-- </div>  -->
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=6"/>
+
 
 
 ## 😐 But I'm still wondering...
