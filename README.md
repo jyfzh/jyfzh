@@ -71,8 +71,8 @@ Awesome githuber
 
 <div align="center">
   <!-- <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> -->
-  <img align=left src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320">
-  <img align=right src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320"> 
+  <!-- <img align=left src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
+  <!-- <img align=right src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
 </div>
 
 
