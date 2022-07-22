@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <!--     <a href="https://elixir-lang.org/"> <img src="https://img.shields.io/badge/elixir-9a3ea8?style=for-the-badge&logo=elixir&logoColor=white"/> </a> -->
 <!--     <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> -->
     <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
+    <a href="https://cplusplus.com/"> <img src="./visualstudiocode.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> </a>
 <!--     <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> </a> -->
 <!--     <a href="https://www.haskell.org/">  <img src="https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /> </a> -->
 <!--     <a href="https://crystal-lang.org/"> <img src="https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"/> </a> -->
