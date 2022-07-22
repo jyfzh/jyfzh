@@ -58,9 +58,6 @@ Here are some ideas to get you started:
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6 -->
 </div>
-## Awesome githuber
-
--->
 
 <div align="center">
     <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
