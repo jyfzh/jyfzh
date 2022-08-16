@@ -24,13 +24,13 @@ Here are some ideas to get you started:
     •
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
     •
-	<b><a href="https://github.com/Microsoft/vscode">vscode</a></b>
+    <b><a href="https://github.com/Microsoft/vscode">vscode</a></b>
 </p>
 
 <p align="left">
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
-    <!-- <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a> -->
-    <!-- <a href=""> <img src="https://img.shields.io/badge/win11-win11-blue"/> </a> -->
+    <!-- <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a> -->	<a href=""> <img src="https://img.shields.io/badge/-win11-blue?logo=windows"/> </a>
+    <a href=""> <img src="https://img.shields.io/badge/-win11-blue?logo=debian"/> </a>
     <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
 </p>
 
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=false)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true)
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&theme=calm&show_icons=true) -->
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6 -->
+![My status](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
 </div>
 
 <div align="center">
