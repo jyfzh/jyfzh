@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <!-- ## 🌠[Coding Time](https://wakatime.com/@Younger) -->
 ## > the projects I'm working on
 
+* <a href="https://github.com/NJFU-PT/NJFU-Courses">NJFU-PT/NJFU-Courses</a>
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=6"/>
