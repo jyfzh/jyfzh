@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="left">
   Hey, I'm jyf!
 </h1>
@@ -29,11 +28,10 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
-    <!-- <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a> -->
-    <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
+	<a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
     <a href=""> <img src="https://img.shields.io/badge/-win11-blue?style=for-the-badge&logo=windows"/> </a>
-    <a href=""> <img src="https://img.shields.io/badge/-debian-blue?style=for-the-badge&logo=debian"/> </a>
-</p>
+    <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
+<p>
 
 <div align="left">  
   
@@ -48,11 +46,6 @@ Here are some ideas to get you started:
 <!-- ![My status](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 </div>
 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
-
-
 <!-- ## 🌠[Coding Time](https://wakatime.com/@Younger) -->
 ## > the projects I'm working on
 
@@ -61,8 +54,7 @@ Here are some ideas to get you started:
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=6"/>
 
-
-
 ## 😐 But I'm still wondering...
+- why i can't solve algorithm problems on leetcode 😪
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
