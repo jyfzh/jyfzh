@@ -54,7 +54,4 @@ Here are some ideas to get you started:
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=6"/>
 
-## 😐 But I'm still wondering...
-- why i can't solve algorithm problems on leetcode 😪
-
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
