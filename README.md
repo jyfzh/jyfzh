@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div align="left">  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact) -->
 
 <!-- ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jyf-111&repo=cpp&bg_color=000000&text_color=718096) -->
 
@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 
 <!-- ![My status](https://github-readme-stats.vercel.app/api/top-langs/?username=jyf-111&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 </div>
-
-<!-- ## 🌠[Coding Time](https://wakatime.com/@Younger) -->
-## > the projects I'm working on
-
-* <a href="https://github.com/NJFU-PT/NJFU-Courses">NJFU-PT/NJFU-Courses</a>
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jyf-111&column=7"/>
