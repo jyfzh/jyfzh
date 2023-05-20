@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   Hey, I'm jyf!
 </h1>
 
-![](https://wakapi.dev/api/badge/jyf-111/interval:today?label=wakatime+today)
-![](https://wakapi.dev/api/badge/jyf-111/jyf-111/interval:30_days?label=wakatime+last+30d)
-
 <p align="left">
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
 	<a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
@@ -29,4 +26,11 @@ Here are some ideas to get you started:
     <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
 <p>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=jyf-111&show_icons=true)
+![](https://wakapi.dev/api/badge/jyf-111/interval:today?label=wakatime+today)
+![](https://wakapi.dev/api/badge/jyf-111/jyf-111/interval:30_days?label=wakatime+last+30d)
+
+![](profile-summary-card-output/github/0-profile-details.svg)
+![](profile-summary-card-output/github/1-repos-per-language.svg)
+![](profile-summary-card-output/github/2-most-commit-language.svg)
+![](profile-summary-card-output/github/3-stats.svg)
+![](profile-summary-card-output/github/4-productive-time.svg)
